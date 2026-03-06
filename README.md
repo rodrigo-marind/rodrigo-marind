@@ -49,6 +49,7 @@ More projects will be added soon.
 - Software architecture
 - Artificial Intelligence
 - Backend development
+- C++
 
 ---
 

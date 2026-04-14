@@ -24,9 +24,9 @@ Data Structures · OOP · REST APIs · Cryptography · Software Architecture
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🔐 Secure Digital Locker  
+###  Secure Digital Locker  
 A secure web application built with Python and Flask to manage digital evidence.
 
 - SHA-256 hashing for data integrity  
@@ -39,7 +39,7 @@ A secure web application built with Python and Flask to manage digital evidence.
 
 ---
 
-## 📂 Other Projects
+## Other Projects
 
 **Smart Transport System**  
 - Requirements definition and UML design  

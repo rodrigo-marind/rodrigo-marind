@@ -1,59 +1,73 @@
 # Hi, I'm Rodrigo 
 
-Computer Engineering student at ULACIT interested in software development, databases and artificial intelligence.
+**Junior Software Engineer | Python | Backend & Web Development | AI & Cloud Enthusiast**
 
-I am currently building my software engineering portfolio while completing my degree.
+Software Engineer in training with a strong foundation in Python, software development, and quality assurance.
 
----
-
-## Technical Skills
-
-- Python
-- SQL / SQL Server
-- HTML / CSS / JavaScript
-- Flask
-- Database Design
-- Git
-- Agile Methodologies (Scrum)
+I have experience building secure web applications using Flask and applying cryptographic techniques such as SHA-256 hashing and Ed25519 digital signatures.
 
 ---
 
-## Projects
+##  Tech Stack
 
-### Secure Digital Locker – Cryptographic Evidence Platform
+**Languages:**  
+Python · JavaScript · SQL · C++
 
-A web application built with **Python and Flask** that allows users to store digital evidence securely while ensuring **integrity, authorship and traceability** using cryptographic techniques.
+**Frameworks & Tools:**  
+Flask · Git · DBeaver · Visual Studio · Docker
 
-Key features include:
+**Cloud & Technologies:**  
+GCP (basic) · HTML · CSS · React (basic)
 
-- SHA-256 hashing for file integrity verification
-- Ed25519 digital signatures for authorship
-- Secure evidence storage
-- Audit logs and system traceability
-- Role-based access control (User / Admin)
-
-Technologies used:
-
-- Python
-- Flask
-- SQLite
-- Cryptography libraries
-
-The full project implementation will be available in this repository soon.
-More projects will be added soon.
+**Concepts:**  
+Data Structures · OOP · REST APIs · Cryptography · Software Architecture
 
 ---
 
-## Currently Learning
+## 🚀 Featured Project
 
-- Software architecture
-- Artificial Intelligence
-- Backend development
-- C++
+### 🔐 Secure Digital Locker  
+A secure web application built with Python and Flask to manage digital evidence.
+
+- SHA-256 hashing for data integrity  
+- Ed25519 digital signatures for authentication  
+- Role-based access control  
+- Audit logging for traceability  
+- Modular architecture for scalability  
+
+ https://github.com/rodrigo-marind/secure-digital-locker  
 
 ---
+
+## 📂 Other Projects
+
+**Smart Transport System**  
+- Requirements definition and UML design  
+- Agile documentation and team collaboration  
+
+**Educational Web Platform**  
+- Built with JavaScript, HTML, and CSS  
+- Agile development and system validation  
+
+---
+
+##  Education
+
+B.Sc. Computer Engineering – ULACIT (2024–Present)
+
+---
+
+##  Languages
+
+Spanish (Native) · English (C1)
+
+---
+
+##  Connect with me
+
+- LinkedIn: https://linkedin.com/in/rodrigo-marind
 
 ## Contact
 
-Email: rodrigo.marind@outlook.com  
-LinkedIn: https://www.linkedin.com/in/rodrigo-marind
+- email: rodrigo.marind@outlook.com
+- phone number: 8303 7852
